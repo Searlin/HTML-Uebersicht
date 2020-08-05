@@ -2,3 +2,8 @@ li {
   color:white;
   background-color:gray;
 }
+img {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: thin;
+}
