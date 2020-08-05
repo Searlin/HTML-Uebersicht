@@ -7,3 +7,6 @@ img {
   border-style: solid;
   border-width: thin;
 }
+.Profilbild {
+  float: right;
+}
