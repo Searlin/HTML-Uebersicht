@@ -8,9 +8,10 @@ img {
   border-width: thin;
 }
 .Profilbild {
-  float: right;
+  float: left;
 }
 
 .article {
   background-color: darkgrey
+  float: right;
 }
