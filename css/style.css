@@ -10,3 +10,7 @@ img {
 .Profilbild {
   float: right;
 }
+
+.article {
+  background-color: darkgrey
+}
